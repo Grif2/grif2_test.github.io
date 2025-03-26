@@ -1,0 +1,35 @@
+html {
+  font-size: 40px;
+  font-family: placeholder: Boldonse
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 5px 5px 5px black;
+  border: 5px solid red;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 20px 20px 20px 20px;
+}
+
+p {
+  text-align: left;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: green;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
